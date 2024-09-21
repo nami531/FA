@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Inclusive Sans', sans-serif;
-    background: linear-gradient(70deg, blue, purple, pink);
+    background: rgb(192, 192, 240);
 }
 
 h1 {
@@ -50,9 +50,9 @@ canvas {
     transition-duration: 0.2s;
     padding: 10px;
     border-radius: 8px;
-    background-color: greenyellow; 
+    background-color: rgb(199, 166, 199); 
     color: black; 
-    border: 2px solid green;
+    border: 2px solid rgb(110, 74, 110);
     cursor: pointer;
 }
   
